@@ -8,11 +8,11 @@ import (
 	"encoding/json"
 	"strconv"
 
-	"github.com/btcsuite/btcd/btcjson"
-	"github.com/btcsuite/btcd/chaincfg"
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcd/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/cobinhood/btcd/btcjson"
+	"github.com/cobinhood/btcd/chaincfg"
+	"github.com/cobinhood/btcd/chaincfg/chainhash"
+	"github.com/cobinhood/btcd/wire"
+	"github.com/cobinhood/btcutil"
 )
 
 // *****************************

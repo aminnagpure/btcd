@@ -10,9 +10,9 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/btcsuite/btcd/rpcclient"
-	"github.com/btcsuite/btcd/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/cobinhood/btcd/rpcclient"
+	"github.com/cobinhood/btcd/wire"
+	"github.com/cobinhood/btcutil"
 )
 
 func main() {

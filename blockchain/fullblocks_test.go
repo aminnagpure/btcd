@@ -12,15 +12,15 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/btcsuite/btcd/blockchain"
-	"github.com/btcsuite/btcd/blockchain/fullblocktests"
-	"github.com/btcsuite/btcd/chaincfg"
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcd/database"
-	_ "github.com/btcsuite/btcd/database/ffldb"
-	"github.com/btcsuite/btcd/txscript"
-	"github.com/btcsuite/btcd/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/cobinhood/btcd/blockchain"
+	"github.com/cobinhood/btcd/blockchain/fullblocktests"
+	"github.com/cobinhood/btcd/chaincfg"
+	"github.com/cobinhood/btcd/chaincfg/chainhash"
+	"github.com/cobinhood/btcd/database"
+	_ "github.com/cobinhood/btcd/database/ffldb"
+	"github.com/cobinhood/btcd/txscript"
+	"github.com/cobinhood/btcd/wire"
+	"github.com/cobinhood/btcutil"
 )
 
 const (

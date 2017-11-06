@@ -7,8 +7,8 @@ package main
 import (
 	"time"
 
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcd/database"
+	"github.com/cobinhood/btcd/chaincfg/chainhash"
+	"github.com/cobinhood/btcd/database"
 )
 
 // headersCmd defines the configuration options for the loadheaders command.
